@@ -93,7 +93,8 @@ a {
 h1, h2, h3, h4, h5, h6 {
   margin-top: 0px;
   margin-bottom: 0px;
-  color: #2a2a2a;
+  margin-left: 0px;
+  color: #fcf7f7;
   font-weight: 700;
 }
 
@@ -213,7 +214,6 @@ section {
   text-transform: capitalize;
   color: #2a2a2a;
 }
-
 /* 
 ---------------------------------------------
 Pre-loader Style
@@ -339,7 +339,7 @@ Header Style
 .header-area {
   background-color: #22b3c1;
   position: absolute;
-  height: 75px;
+  height: 83px;
   top: 0;
   left: 0;
   right: 0;
@@ -353,7 +353,7 @@ Header Style
 .header-area .main-nav {
   background: transparent;
   display: flex;
-  padding: 0px 30px;
+  padding: 0px 0px;
 }
 
 .background-header .main-nav {
@@ -560,7 +560,7 @@ Header Style
 }
 
 .header-area.header-sticky {
-  min-height: 70px;
+  min-height: 83px;
 }
 
 .header-area.header-sticky .nav li a.active {
