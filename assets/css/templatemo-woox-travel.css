@@ -324,7 +324,7 @@ Header Style
 
 .background-header {
   background-color: #22b3c1 !important;
-  height: 70px!important;
+  height: 83Spx!important;
   position: fixed!important;
   top: 0!important;
   left: 0;
@@ -458,7 +458,7 @@ Header Style
 }
 
 .background-header .main-nav .menu-trigger {
-  top: 17px;
+  top: 35px;
 }
 
 .header-area .main-nav .menu-trigger span,
